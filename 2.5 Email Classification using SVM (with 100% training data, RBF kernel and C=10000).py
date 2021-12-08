@@ -7,7 +7,7 @@
     
 import sys
 from time import time
-sys.path.append("C:\\Users\\HP\\Desktop\\ML Code\\")
+sys.path.append("C:\\Users\\hayde\\OneDrive\\Documents\\Final_Project_497\\code_from_tutorial\\Email-Classification")
 from email_preprocess import preprocess
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
